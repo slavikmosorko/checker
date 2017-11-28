@@ -1,0 +1,4 @@
+2017-11-28 23:33:44.997 [INFO   ] [pool-2-thread-1] 39:PmiHttpURLConnection           - Response Code: 200
+2017-11-28 23:33:45.212 [INFO   ] [pool-2-thread-1] 33:ResponsePrinter                - Response ID: 0
+2017-11-28 23:34:06.871 [INFO   ] [main] 20:CheckerApplicationTests        - TEST TO DB
+2017-11-28 23:34:07.148 [INFO   ] [Thread-3] 39:EmailService                   - [EMAIL SENT] null

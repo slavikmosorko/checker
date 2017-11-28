@@ -1,0 +1,6 @@
+2017-11-19 21:16:20.994 [INFO   ] [pool-2-thread-1] 39:PmiHttpURLConnection           - Response Code: 200
+2017-11-19 21:16:21.163 [INFO   ] [pool-2-thread-1] 33:ResponsePrinter                - Response ID: 0
+2017-11-19 21:17:05.593 [INFO   ] [pool-2-thread-1] 39:PmiHttpURLConnection           - Response Code: 200
+2017-11-19 21:17:05.793 [INFO   ] [pool-2-thread-1] 33:ResponsePrinter                - Response ID: 0
+2017-11-19 21:18:14.580 [INFO   ] [pool-2-thread-1] 39:PmiHttpURLConnection           - Response Code: 200
+2017-11-19 21:18:14.769 [INFO   ] [pool-2-thread-1] 33:ResponsePrinter                - Response ID: 0
